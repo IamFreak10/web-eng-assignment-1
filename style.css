@@ -1,0 +1,33 @@
+nav a{
+    text-decoration: none;
+
+    color: black;
+    margin-left: 20px;
+    font-weight: semi-bold;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+nav a:hover{
+    color: white;
+    background-color: #6679ee;
+    transition: 0.3s;
+}
+ .button-read-more {
+      background-color: black;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      padding: 4px 18px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    /* Hover effect */
+    .button-read-more:hover {
+      background-color: white;
+      color: black;
+      border: 1px solid black;
+    }
